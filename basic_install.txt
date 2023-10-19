@@ -1,0 +1,4 @@
+
+virtualenv [directory] - creates a virtual enviroment in [directory] 
+
+pip install fastapi[standard] -- installs most of the required fastapi libraries
